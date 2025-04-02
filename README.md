@@ -6,7 +6,7 @@ Part in c++ simulates waves and produces signal recieved by array. It has UI in 
 
 Part in matlab processes obtained signal using FFT to work out where has/have the signal/signals came from.
 
-More in documentation (in polish) [](Dokumentacja_DSP.pdf)
+More in documentation (in polish) [Dokumentacja_DSP](Dokumentacja_DSP.pdf)
 
 ### How to build?
 Compile:
